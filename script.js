@@ -58,3 +58,5 @@ $(document).ready(function () {
   // display current day on page
   $("#currentDay").text(dayjs().format("dddd, MMMM D, YYYY"));
 });
+
+button.click(getValue);
